@@ -1,0 +1,286 @@
+position1: -61.1405
+value is 1456
+value is 24
+value is 24
+value is 24
+value is 364
+value is 3025
+value is 1
+value is 1456
+value is 757
+value is 96
+value is 3025
+old_anchor[0]: 0
+shape[0]: 364
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 364
+window.x().end() 364
+window.x().step() 4
+_scale_x 4
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 1456
+anchor[0] is 
+value is 364
+value is 757
+old_anchor[0]: 0
+shape[0]: 96
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 96
+window.x().end() 96
+window.x().step() 4
+_scale_x 1
+_width 4
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 96
+anchor[0] is 
+value is 96
+value is 3025
+old_anchor[0]: 0
+shape[0]: 55
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 55
+window.x().end() 48
+window.x().step() 16
+_scale_x 1
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 48
+anchor[0] is 
+value is 48
+value is 55
+value is 96
+old_anchor[0]: 0
+shape[0]: 48
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 48
+window.x().end() 48
+window.x().step() 1
+_scale_x 1
+_width 1
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 48
+anchor[0] is 
+value is 48
+value is 55
+value is 96
+value is 48
+value is 55
+value is 96
+old_anchor[0]: 0
+shape[0]: 48
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 48
+window.x().end() 48
+window.x().step() 16
+_scale_x 1
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 48
+anchor[0] is 
+value is 48
+value is 55
+value is 96
+old_anchor[0]: 0
+shape[0]: 27
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 27
+window.x().end() 27
+window.x().step() 1
+_scale_x 1
+_width 1
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 27
+anchor[0] is 
+value is 27
+value is 27
+value is 96
+value is 4804
+value is 32
+value is 32
+value is 32
+value is 1201
+value is 729
+value is 1
+value is 4804
+value is 183
+value is 128
+value is 729
+old_anchor[0]: 0
+shape[0]: 1201
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 1201
+window.x().end() 1204
+window.x().step() 4
+_scale_x 4
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 4816
+anchor[0] is 
+value is 1201
+value is 183
+old_anchor[0]: 0
+shape[0]: 128
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 128
+window.x().end() 128
+window.x().step() 4
+_scale_x 1
+_width 4
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 128
+anchor[0] is 
+value is 128
+value is 729
+value is 4804
+value is 32
+value is 32
+value is 32
+value is 1201
+value is 729
+value is 1
+value is 4804
+value is 183
+value is 128
+value is 729
+old_anchor[0]: 0
+shape[0]: 1201
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 1201
+window.x().end() 1204
+window.x().step() 4
+_scale_x 4
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 4816
+anchor[0] is 
+value is 1201
+value is 183
+old_anchor[0]: 0
+shape[0]: 128
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 128
+window.x().end() 128
+window.x().step() 4
+_scale_x 1
+_width 4
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 128
+anchor[0] is 
+value is 128
+value is 729
+old_anchor[0]: 0
+shape[0]: 27
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 27
+window.x().end() 16
+window.x().step() 16
+_scale_x 1
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 16
+anchor[0] is 
+value is 16
+value is 27
+value is 256
+old_anchor[0]: 0
+shape[0]: 16
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 16
+window.x().end() 16
+window.x().step() 1
+_scale_x 1
+_width 1
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 16
+anchor[0] is 
+value is 16
+value is 27
+value is 256
+value is 16
+value is 27
+value is 256
+old_anchor[0]: 0
+shape[0]: 16
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 16
+window.x().end() 16
+window.x().step() 16
+_scale_x 1
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 16
+anchor[0] is 
+value is 16
+value is 27
+value is 256
+old_anchor[0]: 0
+shape[0]: 13
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 13
+window.x().end() 13
+window.x().step() 1
+_scale_x 1
+_width 1
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 13
+anchor[0] is 
+value is 13
+value is 13
+value is 256
+value is 9220
+value is 96
+value is 96
+value is 96
+value is 2305
+value is 169
+value is 1
+value is 9220
+value is 43
+value is 384
+value is 169
+old_anchor[0]: 0
+shape[0]: 2305
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 2305
+window.x().end() 2308
+window.x().step() 4
+_scale_x 4
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 9232
+anchor[0] is 
+value is 2305
+value is 43
+old_anchor[0]: 0
+shape[0]: 384
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 384
+window.x().end() 384
+window.x().step() 4
+_scale_x 1
+_width 4
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 384
+anchor[0] is 
+value is 384
+value is 169
+here! 
+13
+13
+384
+13
+13
+384
+old_anchor[0]: 0
+shape[0]: 13
+border_size.right0
+old_anchor[0] + shape[0] - border_size.right is 13
+window.x().end() 0
+window.x().step() 16
+_scale_x 1
+_width 16
+anchor[0] 0
+(window.x().end() - window.x().step()) * _scale_x + width is 0
+anchor[0] is 
+value is 0
